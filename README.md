@@ -1,7 +1,7 @@
-usda_ndb_r26
+USDA National Nutrient Database for Standard Reference, Release 26
 ============
 
-USDA Nutrient Database r26 in MySql format
+In MySql format (who uses Access anymore?).
 
 Downloaded from:
 http://www.ars.usda.gov/Services/docs.htm?docid=23602
